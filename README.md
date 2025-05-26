@@ -11,7 +11,7 @@
   Roll Number: 2100290100042
 
 
-# Blogging Website - Setup and Execution Guide
+# Setup and Execution Guide
 
 This guide walks you through cloning, setting up, and running the Blogging Website project.
 
